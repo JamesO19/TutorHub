@@ -1,6 +1,7 @@
 # TutorHub
-*What it should be like*
+**What it should be like**
 - Students post questions they’re struggling with and ask other students or tutors for help.
+- Tutors answers can be
 - Students and tutors can friend/follow each other to ask questions faster
 - Questions can either be public or private when sent
 -   Private questions can only be viewed by tutors and “friends”
@@ -8,7 +9,6 @@
 - Maybe add a section for quizzes?
 - Add gemini API for questions to tell students where they went wrong
 
-*What it should look like*
+**What it should look like**
 - Start off with log in or sign up page
-
-
+- After logging in, take straight to home page 
